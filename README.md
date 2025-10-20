@@ -1,4 +1,4 @@
-### Metgenomic worshop
+### Metagenomic worshop
 
 The workshop explores multiple topics:
 
